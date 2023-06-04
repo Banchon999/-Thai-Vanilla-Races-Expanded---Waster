@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_ToxAbsorption.label>การดูดซับสารพิษ</VRE_ToxAbsorption.label>
+  <VRE_ToxAbsorption.description>พาหะของยีนนี้มีความสามารถพิเศษในการดูดซับก๊าซพิษโดยตรงผ่านทางผิวหนังของพวกมัน ยีนนี้ไม่มีผลใดๆ ในตัวมันเอง แต่จะเพิ่มความเร็วที่ยีนที่เกี่ยวข้องกับมลพิษต่างๆ พอใจ</VRE_ToxAbsorption.description>
+
+  <VRE_Instability_Nominal.label>ความไม่เสถียรของเซลล์ที่ระบุ</VRE_Instability_Nominal.label>
+  <VRE_Instability_Nominal.description>พาหะของยีนนี้ต้องการพลังงานเมแทบอลิซึมที่น้อยลงเล็กน้อยเพื่อให้มีชีวิตอยู่ได้ ในราคาของความเสถียรที่ลดลงในเครื่องจักรการจำลองเซลล์ของพวกมัน</VRE_Instability_Nominal.description>
+
+  <VRE_Instability_Extreme.label>ความไม่เสถียรของเซลล์ระดับสูงสุด</VRE_Instability_Extreme.label>
+  <VRE_Instability_Extreme.description>พาหะของยีนนี้ต้องการพลังงานเมแทบอลิซึมเพียงเล็กน้อยเพื่อให้มีชีวิตอยู่ได้ ด้วยความเสถียรที่ลดลงอย่างมากในเครื่องจักรการจำลองเซลล์ของพวกมัน</VRE_Instability_Extreme.description>
+
+  <VRE_Instability_Progressive.label>ความไม่เสถียรของเซลล์แบบก้าวหน้า</VRE_Instability_Progressive.label>
+  <VRE_Instability_Progressive.description>พาหะของยีนนี้มีรหัสพันธุกรรมที่ไม่เสถียรมากขึ้นเรื่อย ๆ ในทุก ๆ รุ่นใหม่</VRE_Instability_Progressive.description>
+
+
+</LanguageData>

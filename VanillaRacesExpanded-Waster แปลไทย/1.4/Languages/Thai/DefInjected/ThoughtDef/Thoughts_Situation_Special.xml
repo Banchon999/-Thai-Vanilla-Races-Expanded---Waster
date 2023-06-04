@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_PollutionHappinessThoughts.stages.0.label>ความสุขไร้มลพิษ</VRE_PollutionHappinessThoughts.stages.0.label>
+  <VRE_PollutionHappinessThoughts.stages.0.description>อืม</VRE_PollutionHappinessThoughts.stages.0.description>
+  <VRE_PollutionHappinessThoughts.stages.1.label>ความสุขจากมลพิษเล็กน้อย</VRE_PollutionHappinessThoughts.stages.1.label>
+  <VRE_PollutionHappinessThoughts.stages.1.description>ฉันรู้สึกได้ถึงมลพิษในเส้นเลือด ฉันชอบ</VRE_PollutionHappinessThoughts.stages.1.description>
+  <VRE_PollutionHappinessThoughts.stages.2.label>ความสุขจากมลภาวะปานกลาง</VRE_PollutionHappinessThoughts.stages.2.label>
+  <VRE_PollutionHappinessThoughts.stages.2.description>มลพิษเป็นสิ่งที่ทำให้ฉันเติบโต และฉันชอบทุกนาทีที่มีมัน</VRE_PollutionHappinessThoughts.stages.2.description>
+  <VRE_PollutionHappinessThoughts.stages.3.label>ความสุขจากมลพิษสุดขั้ว</VRE_PollutionHappinessThoughts.stages.3.label>
+  <VRE_PollutionHappinessThoughts.stages.3.description>ร่างกายของฉันเป็นพิษ เลือดของฉันเน่าเหม็น!</VRE_PollutionHappinessThoughts.stages.3.description>
+
+
+</LanguageData> 

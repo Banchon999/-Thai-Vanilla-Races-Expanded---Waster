@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_ToxAbsorption.label>การดูดซับสารพิษ</VRE_ToxAbsorption.label>
+  <VRE_ToxAbsorption.description>ดูดซับก๊าซพิษผ่านผิวหนังโดยตรง เพิ่มความเร็วที่มลภาวะจะพึงพอใจสำหรับยีนที่เกี่ยวข้องกับมลภาวะต่างๆ</VRE_ToxAbsorption.description>
+
+  <VRE_PollutionRegeneration.label>การฟื้นฟูมลพิษ</VRE_PollutionRegeneration.label>
+  <VRE_PollutionRegeneration.description>ได้รับประโยชน์จากการฟื้นฟูตามธรรมชาติอย่างรวดเร็วในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มขึ้น ความสามารถในการสร้างใหม่จะเพิ่มขึ้น ฟื้นตัวจากการบาดเจ็บและฟื้นฟูพลังชีวิตได้รวดเร็วยิ่งขึ้น</VRE_PollutionRegeneration.description>
+  <VRE_PollutionRegeneration.stages.0.label>ไม่ใช้งาน</VRE_PollutionRegeneration.stages.0.label>
+  <VRE_PollutionRegeneration.stages.1.label>เล็กน้อย</VRE_PollutionRegeneration.stages.1.label>
+  <VRE_PollutionRegeneration.stages.2.label>ปานกลาง</VRE_PollutionRegeneration.stages.2.label>
+  <VRE_PollutionRegeneration.stages.3.label>สุดขีด</VRE_PollutionRegeneration.stages.3.label>
+
+  <VRE_PollutionRage.label>มลพิษรุนแรง</VRE_PollutionRage.label>
+  <VRE_PollutionRage.description>ประสบกับความเสียหายที่เพิ่มมากขึ้นในระยะประชิดในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มสูงขึ้น ความดุร้ายและพละกำลังก็ทวีความรุนแรงขึ้น ทำให้ศัตรูได้รับอันตรายมากขึ้น</VRE_PollutionRage.description>
+  <VRE_PollutionRage.stages.0.label>ไม่ใช้งาน</VRE_PollutionRage.stages.0.label>
+  <VRE_PollutionRage.stages.1.label>เล็กน้อย</VRE_PollutionRage.stages.1.label>
+  <VRE_PollutionRage.stages.2.label>ปานกลาง</VRE_PollutionRage.stages.2.label>
+  <VRE_PollutionRage.stages.3.label>สุดขีด</VRE_PollutionRage.stages.3.label>
+
+  <VRE_PollutionSustenance.label>การยังชีพด้วยมลพิษ</VRE_PollutionSustenance.label>
+  <VRE_PollutionSustenance.description>ได้รับสารอาหารจากมลพิษ ชะลอความหิว</VRE_PollutionSustenance.description>
+  <VRE_PollutionSustenance.stages.0.label>ไม่ใช้งาน</VRE_PollutionSustenance.stages.0.label>
+  <VRE_PollutionSustenance.stages.1.label>น้อย</VRE_PollutionSustenance.stages.1.label>
+  <VRE_PollutionSustenance.stages.2.label>ปานกลาง</VRE_PollutionSustenance.stages.2.label>
+  <VRE_PollutionSustenance.stages.3.label>สุดขีด</VRE_PollutionSustenance.stages.3.label>
+
+  <VRE_PollutionCognition.label>การรับรู้มลพิษ</VRE_PollutionCognition.label>
+  <VRE_PollutionCognition.description>แสดงสมาธิและความสามารถในการเรียนรู้ที่เพิ่มขึ้นในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มสูงขึ้น ความสามารถในการได้รับทักษะใหม่ๆ และรักษาความรู้ไว้ก็จะเพิ่มมากขึ้น</VRE_PollutionCognition.description>
+  <VRE_PollutionCognition.stages.0.label>ไม่ใช้งาน</VRE_PollutionCognition.stages.0.label>
+  <VRE_PollutionCognition.stages.1.label>เล็กน้อย</VRE_PollutionCognition.stages.1.label>
+  <VRE_PollutionCognition.stages.2.label>ปานกลาง</VRE_PollutionCognition.stages.2.label>
+  <VRE_PollutionCognition.stages.3.label>สุดขีด</VRE_PollutionCognition.stages.3.label>
+
+  <VRE_PollutionNumbness.label>อาการชาจากมลพิษ</VRE_PollutionNumbness.label>
+  <VRE_PollutionNumbness.description>แสดงความรู้สึกเจ็บปวดที่ลดลงในสภาพแวดล้อมที่มีมลพิษเมื่อระดับมลพิษเพิ่มขึ้น</VRE_PollutionNumbness.description>
+  <VRE_PollutionNumbness.stages.0.label>ไม่ใช้งาน</VRE_PollutionNumbness.stages.0.label>
+  <VRE_PollutionNumbness.stages.1.label>น้อย</VRE_PollutionNumbness.stages.1.label>
+  <VRE_PollutionNumbness.stages.2.label>ปานกลาง</VRE_PollutionNumbness.stages.2.label>
+  <VRE_PollutionNumbness.stages.3.label>สุดขีด</VRE_PollutionNumbness.stages.3.label>
+
+  <VRE_PollutionHappiness.label>มลพิษความสุข</VRE_PollutionHappiness.label>
+  <VRE_PollutionHappiness.description>เพลิดเพลินกับความสุขในระดับที่สูงขึ้นในสภาพแวดล้อมที่มีมลพิษ พบกับความสุขและความพึงพอใจที่เพิ่มขึ้นเมื่อระดับมลพิษเพิ่มขึ้น</VRE_PollutionHappiness.description>
+  <VRE_PollutionHappiness.stages.0.label>ไม่ใช้งาน</VRE_PollutionHappiness.stages.0.label>
+  <VRE_PollutionHappiness.stages.1.label>เล็กน้อย</VRE_PollutionHappiness.stages.1.label>
+  <VRE_PollutionHappiness.stages.2.label>ปานกลาง</VRE_PollutionHappiness.stages.2.label>
+  <VRE_PollutionHappiness.stages.3.label>สุดขีด</VRE_PollutionHappiness.stages.3.label>
+
+  <VRE_PollutionProductivity.label>ผลผลิตมลพิษ</VRE_PollutionProductivity.label>
+  <VRE_PollutionProductivity.description>ความเร็วในการทำงานดีขึ้นอย่างมากในสภาพแวดล้อมที่มีมลพิษ และทำงานให้เสร็จได้อย่างมีประสิทธิภาพและรวดเร็วขึ้นเมื่อระดับมลพิษเพิ่มขึ้น</VRE_PollutionProductivity.description>
+  <VRE_PollutionProductivity.stages.0.label>ไม่ใช้งาน</VRE_PollutionProductivity.stages.0.label>
+  <VRE_PollutionProductivity.stages.1.label>เล็กน้อย</VRE_PollutionProductivity.stages.1.label>
+  <VRE_PollutionProductivity.stages.2.label>ปานกลาง</VRE_PollutionProductivity.stages.2.label>
+  <VRE_PollutionProductivity.stages.3.label>สุดขีด</VRE_PollutionProductivity.stages.3.label>
+
+  <VRE_PollutionPsySensitivity.label>ความไวต่อมลภาวะ</VRE_PollutionPsySensitivity.label>
+  <VRE_PollutionPsySensitivity.description>สัมผัสความไวของพลังจิตที่เพิ่มขึ้นในสภาพแวดล้อมที่มีมลพิษ นำไปสู่ทักษะการหยั่งรู้และกระแสจิตที่แข็งแกร่งขึ้นเมื่อระดับมลพิษเพิ่มขึ้น</VRE_PollutionPsySensitivity.description>
+  <VRE_PollutionPsySensitivity.stages.0.label>ไม่ใช้งาน</VRE_PollutionPsySensitivity.stages.0.label>
+  <VRE_PollutionPsySensitivity.stages.1.label>น้อย</VRE_PollutionPsySensitivity.stages.1.label>
+  <VRE_PollutionPsySensitivity.stages.2.label>ปานกลาง</VRE_PollutionPsySensitivity.stages.2.label>
+  <VRE_PollutionPsySensitivity.stages.3.label>สุดขีด</VRE_PollutionPsySensitivity.stages.3.label>
+
+  <VRE_PollutionFertility.label>ความอุดมสมบูรณ์ของมลพิษ</VRE_PollutionFertility.label>
+  <VRE_PollutionFertility.description>สัมผัสประสบการณ์การเจริญพันธุ์ในสภาพแวดล้อมที่มีมลภาวะ ช่วยเพิ่มการผลิตลูกหลานและขยายพันธุ์ได้เร็วขึ้นในสภาวะที่เป็นอันตราย</VRE_PollutionFertility.description>
+  <VRE_PollutionFertility.stages.0.label>ไม่ใช้งาน</VRE_PollutionFertility.stages.0.label>
+  <VRE_PollutionFertility.stages.1.label>เล็กน้อย</VRE_PollutionFertility.stages.1.label>
+  <VRE_PollutionFertility.stages.2.label>ปานกลาง</VRE_PollutionFertility.stages.2.label>
+  <VRE_PollutionFertility.stages.3.label>สุดขีด</VRE_PollutionFertility.stages.3.label>
+
+  <VRE_PollutionAccuracy.label>ความแม่นยำของมลพิษ</VRE_PollutionAccuracy.label>
+  <VRE_PollutionAccuracy.description>ได้รับการปรับปรุงความเสถียรและความแม่นยำในสภาพแวดล้อมที่มีมลพิษ</VRE_PollutionAccuracy.description>
+  <VRE_PollutionAccuracy.stages.0.label>ไม่ใช้งาน</VRE_PollutionAccuracy.stages.0.label>
+  <VRE_PollutionAccuracy.stages.1.label>น้อย</VRE_PollutionAccuracy.stages.1.label>
+  <VRE_PollutionAccuracy.stages.2.label>ปานกลาง</VRE_PollutionAccuracy.stages.2.label>
+  <VRE_PollutionAccuracy.stages.3.label>สุดขีด</VRE_PollutionAccuracy.stages.3.label>
+
+
+</LanguageData>

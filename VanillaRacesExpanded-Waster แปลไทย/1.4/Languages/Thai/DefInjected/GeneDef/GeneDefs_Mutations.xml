@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREW_Mutation_Randomizer.label>เครื่องสุ่มกลายพันธ์ุ</VREW_Mutation_Randomizer.label>
+  <VREW_Mutation_Randomizer.description>เมื่อผู้จำนำได้รับยีนนี้ มันจะแปลงตัวเองเป็นการกลายพันธุ์แบบสุ่ม 1-3 ครั้ง</VREW_Mutation_Randomizer.description>
+
+  <VREW_PollutionRush.label>ตัวกระตุ้นมลพิษ</VREW_PollutionRush.label>
+  <VREW_PollutionRush.description>พาหะของยีนนี้ได้รับสารเคมีจากการสัมผัสกับมลพิษ สิ่งนี้ทำให้พวกเขาเคลื่อนไหวเร็วขึ้นและช่วยให้คิดได้ชัดเจนขึ้น พบยีนที่คล้ายกันนี้ในแมลงขนาดใหญ่ที่มีวิศวกรรมการต่อสู้</VREW_PollutionRush.description>
+
+  <VREW_PollutionRegeneration.label>การฟื้นฟูมลพิษ</VREW_PollutionRegeneration.label>
+  <VREW_PollutionRegeneration.description>พาหะของยีนนี้ได้รับประโยชน์จากการเร่งการรักษาตามธรรมชาติในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มขึ้น ความสามารถในการสร้างใหม่ก็เพิ่มขึ้น ทำให้สามารถฟื้นตัวจากอาการบาดเจ็บและฟื้นฟูพลังชีวิตได้เร็วขึ้น</VREW_PollutionRegeneration.description>
+
+  <VREW_PollutionRage.label>มลพิษรุนแรง</VREW_PollutionRage.label>
+  <VREW_PollutionRage.description>พาหะของยีนนี้ขยายความเสียหายในระยะประชิดในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มสูงขึ้น ความดุร้ายและความแข็งแกร่งของพวกมันก็ทวีความรุนแรงขึ้น ทำให้พวกเขาสร้างอันตรายต่อศัตรูได้มากขึ้น</VREW_PollutionRage.description>
+
+  <VREW_PollutionSustenance.label>มลพิษที่ยั่งยืน</VREW_PollutionSustenance.label>
+  <VREW_PollutionSustenance.description>พาหะของยีนนี้มีความสามารถที่น่าทึ่งในการได้รับสารอาหารจากมลพิษ ในสภาพแวดล้อมที่มีมลพิษ พวกมันสามารถดูดซับสารอาหารที่สำคัญจากอากาศ ทำให้อัตราการหิวช้าลง</VREW_PollutionSustenance.description>
+
+  <VREW_PollutionCognition.label>การรับรู้มลพิษ</VREW_PollutionCognition.label>
+  <VREW_PollutionCognition.description>พาหะของยีนนี้แสดงความสนใจที่เพิ่มขึ้นและความสามารถในการเรียนรู้ในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มสูงขึ้น ความสามารถในการรับทักษะใหม่ๆ และรักษาความรู้ก็เพิ่มขึ้น</VREW_PollutionCognition.description>
+
+  <VREW_PollutionNumbness.label>อาการชาจากมลพิษ</VREW_PollutionNumbness.label>
+  <VREW_PollutionNumbness.description>พาหะของยีนนี้จะรู้สึกเจ็บปวดน้อยลงในสภาพแวดล้อมที่มีมลพิษเมื่อระดับมลพิษเพิ่มขึ้น</VREW_PollutionNumbness.description>
+
+  <VREW_PollutionHappiness.label>มลพิษความสุข</VREW_PollutionHappiness.label>
+  <VREW_PollutionHappiness.description>พาหะของยีนนี้มีความสุขในระดับที่สูงขึ้นในสภาพแวดล้อมที่มีมลพิษ พบกับความสุขและความพึงพอใจที่เพิ่มขึ้นเมื่อระดับมลพิษสูงขึ้น ทำให้พวกเขาเจริญเติบโตได้ในสภาวะที่มืดมน</VREW_PollutionHappiness.description>
+
+  <VREW_PollutionProductivity.label>ผลผลิตมลพิษ</VREW_PollutionProductivity.label>
+  <VREW_PollutionProductivity.description>พาหะของยีนนี้พบว่าความเร็วในการทำงานของพวกเขาดีขึ้นอย่างมากในสภาพแวดล้อมที่มีมลภาวะ ทำให้พวกเขาสามารถทำงานให้เสร็จได้อย่างมีประสิทธิภาพและรวดเร็วขึ้นเมื่อระดับมลพิษเพิ่มขึ้น</VREW_PollutionProductivity.description>
+
+  <VREW_PollutionPsySensitivity.label>มลพิษทางจิตใจ</VREW_PollutionPsySensitivity.label>
+  <VREW_PollutionPsySensitivity.description>พาหะของยีนนี้จะเพิ่มความไวของจิตในสภาพแวดล้อมที่มีมลพิษ นำไปสู่ทักษะการหยั่งรู้และกระแสจิตที่แข็งแกร่งขึ้นเมื่อระดับมลพิษเพิ่มขึ้น</VREW_PollutionPsySensitivity.description>
+
+  <VREW_PollutionFertility.label>ความอุดมสมบูรณ์ของมลพิษ</VREW_PollutionFertility.label>
+  <VREW_PollutionFertility.description>พาหะของยีนนี้ส่งเสริมการเจริญพันธุ์ในสภาพแวดล้อมที่มีมลภาวะ ทำให้สามารถผลิตลูกหลานเพิ่มขึ้นและขยายสายเลือดได้เร็วขึ้นในสภาวะที่เป็นอันตราย</VREW_PollutionFertility.description>
+
+  <VREW_PollutionAccuracy.label>ความแม่นยำของมลภาวะ</VREW_PollutionAccuracy.label>
+  <VREW_PollutionAccuracy.description>พาหะของยีนนี้ได้รับความเสถียรและความแม่นยำที่ดีขึ้นในสภาพแวดล้อมที่มีมลพิษ เมื่อระดับมลพิษเพิ่มสูงขึ้น ความสามารถในการเล็งก็เพิ่มขึ้น ทำให้กำหนดเป้าหมายและโจมตีได้อย่างแม่นยำ</VREW_PollutionAccuracy.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<ModMetaData>
+	<name>[Thai]Vanilla Races Expanded - Waster</name>
+	<author>Demax</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>Demax.Trans.VEDW</packageId>	
+    <loadAfter>
+        <li>vanillaracesexpanded.waster</li>
+	</loadAfter>
+	  <incompatibleWith>
+        <li>jicenok.vanillaracesexpanded.waster</li>
+     </incompatibleWith>
+	<description>
+		โมดนี้เสริมเติมสายพันธุ์ของตัวละครใน RimWorld โดยนำเสนอสายพันธุ์ Waster ใหม่ เผ่า Waster เป็นกลุ่มผู้รอดชีวิตหลังจากการสิ้นสุดโลก มีความทนทานและความสามารถในการใช้ทรัพยากรในสภาพแวดล้อมที่ท้าทาย เกม RimWorld จะเพิ่มคุณสมบัติพิเศษ และรายละเอียดพื้นฐานของตัวละคร Waster เข้ามา พร้อมกับไอเทมและเรื่องราวที่เกี่ยวข้อง เปลี่ยนแปลงและเพิ่มความน่าสนใจให้กับการเล่น RimWorld ด้วยโมดนี้ "[Thai]Vanilla Races Expanded - Waster".
+	</description>
+</ModMetaData>

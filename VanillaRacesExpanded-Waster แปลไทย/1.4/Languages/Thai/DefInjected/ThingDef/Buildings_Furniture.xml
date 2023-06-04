@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_BurnBarrel.label>ถังเผาขยะ</VRE_BurnBarrel.label>
+  <VRE_BurnBarrel.description>ภาชนะโลหะที่ทนทาน ออกแบบมาสำหรับเผาขยะ ขณะที่เผาไหม้ จะปล่อยมลพิษและปล่อยก๊าซพิษ ปนเปื้อนพื้นที่โดยรอบและสร้างสภาพแวดล้อมที่ไม่เอื้ออำนวยต่อผู้ที่ไวต่อมลพิษ ขณะเดียวกันก็พิสูจน์ได้ว่าเป็นประโยชน์สำหรับพาหะของยีนที่ปรับเปลี่ยนตามมลพิษ</VRE_BurnBarrel.description>
+  <VRE_BurnBarrel_Blueprint.label>ถังเผาไหม้ (พิมพ์เขียว)</VRE_BurnBarrel_Blueprint.label>
+  <VRE_BurnBarrel_Frame.label>เบิร์นบาร์เรล (ก่อสร้าง)</VRE_BurnBarrel_Frame.label>
+  <VRE_BurnBarrel_Frame.description>ภาชนะโลหะที่ทนทาน ออกแบบมาสำหรับเผาขยะ ขณะที่เผาไหม้ จะปล่อยมลพิษและปล่อยก๊าซพิษ ปนเปื้อนบริเวณโดยรอบและสร้างสภาพแวดล้อมที่ไม่เอื้ออำนวยต่อผู้ที่ไวต่อมลพิษ ขณะเดียวกันก็พิสูจน์ได้ว่าเป็นประโยชน์สำหรับพาหะของยีนที่ปรับเปลี่ยนตามมลพิษ</VRE_BurnBarrel_Frame.description>
+
+
+</LanguageData>
